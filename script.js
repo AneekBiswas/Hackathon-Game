@@ -85,6 +85,11 @@ function takeInput(){
     inputBox.addEventListener('keydown', function(e){
         if (e.key === "Enter"){
             const inputValue = inputBox.value.trim();
+            if(inputValue.split(":")[0] === "2"){
+                gameLogic(state2, state1, inputValue.split(":")[1]);
+            }else{
+                gameLogic(state1, state2, inputValue.split(":")[1]);
+            }
         }
     });
 }
