@@ -1,0 +1,51 @@
+* {
+    background-color: black;
+    color: rgb(30, 215, 96);
+}
+
+.gameHeading {
+    font-family: "Courier New", monospace;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.1;
+    margin-top: 20px;
+}
+.uiContainer {
+    width: 80%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.box {
+    border: 1px solid rgb(30, 215, 96);
+    padding: 10px;
+    font-family: "Courier New", monospace;
+}
+
+.output {
+    height: 250px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+}
+
+.inputWrapper {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(30, 215, 96);
+    padding: 5px 10px;
+}
+
+.prompt {
+    font-family: "Courier New", monospace;
+    margin-right: 5px;
+}
+
+.inputField {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-family: "Courier New", monospace;
+}

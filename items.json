@@ -1,0 +1,454 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Iron Sword",
+            "baseAttackGain": 6,
+            "baseAttackMultGain": 1.08,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.02,
+            "use": 5
+        },
+        {
+            "id": 2,
+            "name": "Steel Sword",
+            "baseAttackGain": 8,
+            "baseAttackMultGain": 1.1,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.02,
+            "use": 4
+        },
+        {
+            "id": 3,
+            "name": "Bronze Sword",
+            "baseAttackGain": 5,
+            "baseAttackMultGain": 1.07,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.02,
+            "use": 5
+        },
+        {
+            "id": 4,
+            "name": "Wooden Shield",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.02,
+            "baseDefenseGain": 7,
+            "baseDefenseMultGain": 1.1,
+            "use": 6
+        },
+        {
+            "id": 5,
+            "name": "Iron Shield",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.02,
+            "baseDefenseGain": 9,
+            "baseDefenseMultGain": 1.12,
+            "use": 5
+        },
+        {
+            "id": 6,
+            "name": "Round Shield",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.03,
+            "baseDefenseGain": 6,
+            "baseDefenseMultGain": 1.1,
+            "use": 6
+        },
+        {
+            "id": 7,
+            "name": "Simple Ring",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.08,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.08,
+            "use": 6
+        },
+        {
+            "id": 8,
+            "name": "War Ring",
+            "baseAttackGain": 6,
+            "baseAttackMultGain": 1.1,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.05,
+            "use": 4
+        },
+        {
+            "id": 9,
+            "name": "Guard Ring",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.03,
+            "baseDefenseGain": 6,
+            "baseDefenseMultGain": 1.1,
+            "use": 5
+        },
+        {
+            "id": 10,
+            "name": "Minor Potion",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.02,
+            "baseDefenseGain": 3,
+            "baseDefenseMultGain": 1.02,
+            "use": 3
+        },
+        {
+            "id": 11,
+            "name": "Balanced Potion",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.05,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.05,
+            "use": 3
+        },
+        {
+            "id": 12,
+            "name": "Defense Potion",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.02,
+            "baseDefenseGain": 6,
+            "baseDefenseMultGain": 1.08,
+            "use": 3
+        },
+        {
+            "id": 13,
+            "name": "Leather Armor",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.02,
+            "baseDefenseGain": 7,
+            "baseDefenseMultGain": 1.1,
+            "use": 6
+        },
+        {
+            "id": 14,
+            "name": "Chain Armor",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.03,
+            "baseDefenseGain": 8,
+            "baseDefenseMultGain": 1.12,
+            "use": 5
+        },
+        {
+            "id": 15,
+            "name": "Cloth Armor",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.02,
+            "baseDefenseGain": 6,
+            "baseDefenseMultGain": 1.08,
+            "use": 6
+        },
+        {
+            "id": 16,
+            "name": "Short Axe",
+            "baseAttackGain": 7,
+            "baseAttackMultGain": 1.1,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.02,
+            "use": 4
+        },
+        {
+            "id": 17,
+            "name": "Dagger",
+            "baseAttackGain": 5,
+            "baseAttackMultGain": 1.12,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.02,
+            "use": 5
+        },
+        {
+            "id": 18,
+            "name": "Hand Axe",
+            "baseAttackGain": 6,
+            "baseAttackMultGain": 1.09,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.02,
+            "use": 5
+        },
+        {
+            "id": 19,
+            "name": "Cloth Cloak",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.05,
+            "baseDefenseGain": 6,
+            "baseDefenseMultGain": 1.1,
+            "use": 6
+        },
+        {
+            "id": 20,
+            "name": "Hunter Cloak",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.08,
+            "baseDefenseGain": 5,
+            "baseDefenseMultGain": 1.08,
+            "use": 5
+        },
+        {
+            "id": 21,
+            "name": "Light Cloak",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.06,
+            "baseDefenseGain": 5,
+            "baseDefenseMultGain": 1.09,
+            "use": 6
+        },
+        {
+            "id": 22,
+            "name": "Strength Amulet",
+            "baseAttackGain": 7,
+            "baseAttackMultGain": 1.1,
+            "baseDefenseGain": 3,
+            "baseDefenseMultGain": 1.03,
+            "use": 4
+        },
+        {
+            "id": 23,
+            "name": "Guard Amulet",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.03,
+            "baseDefenseGain": 7,
+            "baseDefenseMultGain": 1.1,
+            "use": 5
+        },
+        {
+            "id": 24,
+            "name": "Balanced Amulet",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.07,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.07,
+            "use": 5
+        },
+        {
+            "id": 25,
+            "name": "Light Boots",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.08,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.08,
+            "use": 6
+        },
+        {
+            "id": 26,
+            "name": "Heavy Boots",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.02,
+            "baseDefenseGain": 8,
+            "baseDefenseMultGain": 1.12,
+            "use": 5
+        },
+        {
+            "id": 27,
+            "name": "Traveler Boots",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.06,
+            "baseDefenseGain": 5,
+            "baseDefenseMultGain": 1.09,
+            "use": 6
+        },
+        {
+            "id": 28,
+            "name": "Focus Orb",
+            "baseAttackGain": 6,
+            "baseAttackMultGain": 1.1,
+            "baseDefenseGain": 3,
+            "baseDefenseMultGain": 1.05,
+            "use": 4
+        },
+        {
+            "id": 29,
+            "name": "Guard Orb",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.05,
+            "baseDefenseGain": 6,
+            "baseDefenseMultGain": 1.1,
+            "use": 5
+        },
+        {
+            "id": 30,
+            "name": "Balanced Orb",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.07,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.07,
+            "use": 5
+        },
+        {
+            "id": 31,
+            "name": "Rusty Blade",
+            "baseAttackGain": 5,
+            "baseAttackMultGain": 1.06,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.02,
+            "use": 6
+        },
+        {
+            "id": 32,
+            "name": "Guard Blade",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.07,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.08,
+            "use": 5
+        },
+        {
+            "id": 33,
+            "name": "Sharp Blade",
+            "baseAttackGain": 7,
+            "baseAttackMultGain": 1.11,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.02,
+            "use": 4
+        },
+        {
+            "id": 34,
+            "name": "Light Helm",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.02,
+            "baseDefenseGain": 6,
+            "baseDefenseMultGain": 1.1,
+            "use": 6
+        },
+        {
+            "id": 35,
+            "name": "Iron Helm",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.02,
+            "baseDefenseGain": 7,
+            "baseDefenseMultGain": 1.11,
+            "use": 5
+        },
+        {
+            "id": 36,
+            "name": "Battle Helm",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.04,
+            "baseDefenseGain": 6,
+            "baseDefenseMultGain": 1.1,
+            "use": 5
+        },
+        {
+            "id": 37,
+            "name": "War Gloves",
+            "baseAttackGain": 5,
+            "baseAttackMultGain": 1.09,
+            "baseDefenseGain": 3,
+            "baseDefenseMultGain": 1.05,
+            "use": 5
+        },
+        {
+            "id": 38,
+            "name": "Guard Gloves",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.05,
+            "baseDefenseGain": 5,
+            "baseDefenseMultGain": 1.09,
+            "use": 6
+        },
+        {
+            "id": 39,
+            "name": "Balanced Gloves",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.07,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.07,
+            "use": 6
+        },
+        {
+            "id": 40,
+            "name": "Hunter Knife",
+            "baseAttackGain": 6,
+            "baseAttackMultGain": 1.1,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.02,
+            "use": 5
+        },
+        {
+            "id": 41,
+            "name": "Scout Knife",
+            "baseAttackGain": 5,
+            "baseAttackMultGain": 1.09,
+            "baseDefenseGain": 3,
+            "baseDefenseMultGain": 1.03,
+            "use": 5
+        },
+        {
+            "id": 42,
+            "name": "Balanced Knife",
+            "baseAttackGain": 5,
+            "baseAttackMultGain": 1.08,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.05,
+            "use": 5
+        },
+        {
+            "id": 43,
+            "name": "Minor Charm",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.05,
+            "baseDefenseGain": 3,
+            "baseDefenseMultGain": 1.05,
+            "use": 6
+        },
+        {
+            "id": 44,
+            "name": "Guard Charm",
+            "baseAttackGain": 2,
+            "baseAttackMultGain": 1.03,
+            "baseDefenseGain": 6,
+            "baseDefenseMultGain": 1.1,
+            "use": 6
+        },
+        {
+            "id": 45,
+            "name": "Power Charm",
+            "baseAttackGain": 6,
+            "baseAttackMultGain": 1.1,
+            "baseDefenseGain": 2,
+            "baseDefenseMultGain": 1.03,
+            "use": 5
+        },
+        {
+            "id": 46,
+            "name": "Traveler Ring",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.07,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.07,
+            "use": 6
+        },
+        {
+            "id": 47,
+            "name": "Battle Ring",
+            "baseAttackGain": 6,
+            "baseAttackMultGain": 1.1,
+            "baseDefenseGain": 3,
+            "baseDefenseMultGain": 1.04,
+            "use": 5
+        },
+        {
+            "id": 48,
+            "name": "Guard Ring II",
+            "baseAttackGain": 3,
+            "baseAttackMultGain": 1.04,
+            "baseDefenseGain": 7,
+            "baseDefenseMultGain": 1.1,
+            "use": 5
+        },
+        {
+            "id": 49,
+            "name": "Focus Talisman",
+            "baseAttackGain": 5,
+            "baseAttackMultGain": 1.09,
+            "baseDefenseGain": 3,
+            "baseDefenseMultGain": 1.05,
+            "use": 5
+        },
+        {
+            "id": 50,
+            "name": "Balanced Talisman",
+            "baseAttackGain": 4,
+            "baseAttackMultGain": 1.08,
+            "baseDefenseGain": 4,
+            "baseDefenseMultGain": 1.08,
+            "use": 6
+        }
+    ]
+}
